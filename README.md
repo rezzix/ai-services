@@ -18,5 +18,3 @@ Flask numpy pandas openai gunicorn apiflask python-dotenv pyodbc
 
 can be run using gunicorn :
 gunicorn -t 60 -w 4 -b 0.0.0.0:8000 main:app
-
-# Contribute
