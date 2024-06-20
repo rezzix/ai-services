@@ -15,11 +15,14 @@ Flask numpy pandas openai gunicorn apiflask python-dotenv pyodbc
 3.	Latest releases
 
 4.	Create a .env file with folowing content
-OPENAI_API_KEY=XXXXXXXXX
-SMTP_SERVER=XXXXX
-SMTP_USER=XXXXX
-SMTP_PASSWORD=XXXXX
 
+OPENAI_API_KEY=XXXXXXXXX
+
+SMTP_SERVER=XXXXX
+
+SMTP_USER=XXXXX
+
+SMTP_PASSWORD=XXXXX
 
 # Build and Test
 
