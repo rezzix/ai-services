@@ -57,5 +57,4 @@ print(f"\nTime taken with {model} model : {elapsed_time:.2f} seconds")
 
 """
 # Stream the response
-
 """
